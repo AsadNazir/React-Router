@@ -1,0 +1,9 @@
+.thumbnail
+{
+    display: grid;
+    place-items: center;
+}
+.thumbnail img
+{
+    width: 40%;
+}
